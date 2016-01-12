@@ -28,8 +28,11 @@ owner:
 # Background image to be tiled on all pages
 background: 
 
+# Baidu Analytics
+baidu_analytics: true
+
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: false 
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
