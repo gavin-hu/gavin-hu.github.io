@@ -28,3 +28,12 @@ image:
 1. Sequel Pro
 2. MySQL Workbench
 
+### Terminal
+1. Oh my zsh
+
+### Package Manager
+1. Homebrew
+
+### SDK Manager
+1. SDKMan
+
