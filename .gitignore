@@ -1,5 +1,6 @@
 _site
 .DS_Store
 .sass-cache
+.deploy_git
 node_modules
 public
